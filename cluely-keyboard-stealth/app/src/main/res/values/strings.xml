@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cluely Keyboard</string>
+    <string name="ime_name">Cluely Keyboard</string>
+    <string name="accessibility_service_label">Cluely on-demand text access</string>
+    <string name="accessibility_service_description">Reads visible text from the active window only when you tap the Cluely AI key. It does not continuously monitor your screen.</string>
+</resources>
